@@ -1,2 +1,2 @@
 #!/bin/bash
-cat etc/passwd > . 
+cat etc/passwd > /io_redirections_and_filters  

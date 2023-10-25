@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "attributed" iacta
+head -n 3 iacta | tail +3

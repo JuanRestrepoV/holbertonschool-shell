@@ -1,0 +1,2 @@
+#!/bin/bash
+echo TRUEKNOWLEDGE | xargs expr 128  
